@@ -6,3 +6,6 @@ You can bin seizure counts by day, week or month, and see the time of day depend
 Medication dose changes are switchable and similarly times for taking rescue medication can be easily viewed.
 
 I'm starting to add some analysis and import of apple watch sleep data for future reference
+
+Output is much like below
+![Screenshot 2025-01-15 at 15 41 27](https://github.com/user-attachments/assets/3b21376c-a28f-4cd2-a773-468f59844d83)
